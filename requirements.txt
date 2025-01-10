@@ -1,0 +1,19 @@
+ipykernel
+sentence-transformers
+langchain
+flask
+pypdf
+python-dotenv
+pinecone
+pinecone-client
+pinecone[grpc]
+langchain-pinecone
+langchain_pinecone
+langchain_community
+langchain-community
+langchain_openai
+langchain_experimental
+fastapi
+uvicorn
+jinja2
+-e .
